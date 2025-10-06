@@ -604,7 +604,7 @@ end
                     BackgroundTransparency = 0.5,
                     Position = UDim2.new(0, 0, 0, 1),
                     BorderColor3 = Color3.fromRGB(0, 0, 0),
-                    Size = UDim2.new(1, 0, 0, 1),
+                    Size = UDim2.new(1, 0, 0, 12),
                     BorderSizePixel = 0,
                     BackgroundColor3 = Color3.fromRGB(0, 0, 0)
                 })
@@ -813,8 +813,8 @@ end
                     TextStrokeTransparency = 0.5,
                     BorderSizePixel = 0,
                     BackgroundTransparency = 1,
-                    Position = UDim2.new(0, 0, 0, -1),
-                    Size = UDim2.new(1, 0, 0, 1),
+                    Position = UDim2.new(0, 0, 0, 0),
+                    Size = UDim2.new(1, 0, 0, 12),
                     ZIndex = 2,
                     TextSize = 12,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -899,8 +899,8 @@ end
                     TextStrokeTransparency = 0.5,
                     BorderSizePixel = 0,
                     BackgroundTransparency = 1,
-                    Position = UDim2.new(0, 0, 0, -1),
-                    Size = UDim2.new(1, 0, 0, 1),
+                    Position = UDim2.new(0, 0, 0, 0),
+                    Size = UDim2.new(1, 0, 0, 12),
                     ZIndex = 2,
                     TextSize = 12,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -1618,8 +1618,8 @@ end
                     TextStrokeTransparency = 0.5,
                     BorderSizePixel = 0,
                     BackgroundTransparency = 1,
-                    Position = UDim2.new(0, 0, 0, -1),
-                    Size = UDim2.new(1, 0, 0, 1),
+                    Position = UDim2.new(0, 0, 0, 0),
+                    Size = UDim2.new(1, 0, 0, 12),
                     ZIndex = 2,
                     TextSize = 12,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -2261,8 +2261,8 @@ end
                     TextStrokeTransparency = 0.5,
                     BorderSizePixel = 0,
                     BackgroundTransparency = 1,
-                    Position = UDim2.new(0, 0, 0, -1),
-                    Size = UDim2.new(1, 0, 0, 1),
+                    Position = UDim2.new(0, 0, 0, 0),
+                    Size = UDim2.new(1, 0, 0, 12),
                     ZIndex = 2,
                     TextSize = 12,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -3232,7 +3232,7 @@ end
                 Text = cfg.name,
                 TextStrokeTransparency = 0.5,
                 BorderSizePixel = 0,
-                Size = UDim2.new(1, 0, 0, 1),
+                Size = UDim2.new(1, 0, 0, 12),
                 BackgroundTransparency = 1,
                 TextXAlignment = Enum.TextXAlignment.Left,
                 Position = UDim2.new(0, 8, 0, 0),
